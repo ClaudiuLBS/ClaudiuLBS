@@ -3,6 +3,7 @@ Welcome to my GitHub profile! I'm Claudiu, a passionate software developer with 
 Let's connect:
 
 LinkedIn: https://www.linkedin.com/in/claudiu-labus/
+</br>
 Email: clau_123@yahoo.com
 
 Looking forward to connecting with you!
